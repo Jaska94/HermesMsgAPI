@@ -1,0 +1,11 @@
+C:\Users\Vstore\source\repos\Hermes\Hermes\bin\Release\netcoreapp2.0\Hermes.deps.json
+C:\Users\Vstore\source\repos\Hermes\Hermes\bin\Release\netcoreapp2.0\Hermes.runtimeconfig.json
+C:\Users\Vstore\source\repos\Hermes\Hermes\bin\Release\netcoreapp2.0\Hermes.runtimeconfig.dev.json
+C:\Users\Vstore\source\repos\Hermes\Hermes\bin\Release\netcoreapp2.0\Hermes.dll
+C:\Users\Vstore\source\repos\Hermes\Hermes\bin\Release\netcoreapp2.0\Hermes.pdb
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.csprojResolveAssemblyReference.cache
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.csproj.CoreCompileInputs.cache
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.AssemblyInfoInputs.cache
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.AssemblyInfo.cs
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.dll
+C:\Users\Vstore\source\repos\Hermes\Hermes\obj\Release\netcoreapp2.0\Hermes.pdb
